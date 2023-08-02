@@ -1,7 +1,5 @@
 // Use fetch and async function to get info on one Disney character
 
-//agregar formato con espacios al parametro nombre
-
 async function getCharacterByName1(inputName) {
   const formattedName = inputName.toLowerCase();
 
