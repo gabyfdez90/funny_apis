@@ -1,6 +1,6 @@
 import axios from "axios";
 
-// Using fetch inside an asyncronous function
+// Using fetch inside an asyncronous function to get one random fact
 
 async function getRandomUselessFact1() {
   const response = await fetch(
@@ -13,7 +13,7 @@ async function getRandomUselessFact1() {
 
 getRandomUselessFact1();
 
-// Using axios inside an asyncronous function
+// Using axios inside an asyncronous function to get one random fact
 // Step 1: Install accions with 'npn install axios'
 
 async function getRandomUselessFact2() {
@@ -25,3 +25,5 @@ async function getRandomUselessFact2() {
 }
 
 getRandomUselessFact2();
+
+// API documentation available here: https://uselessfacts.jsph.pl/
