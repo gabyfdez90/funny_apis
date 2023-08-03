@@ -52,3 +52,5 @@ async function getCharacterByName2(inputName) {
 }
 
 getCharacterByName2("mulan");
+
+// Access the full docs on the API here: https://disneyapi.dev/docs/

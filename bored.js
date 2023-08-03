@@ -49,3 +49,5 @@ async function getActivityIdeaWithParameters(type, numberOfParticipants) {
 }
 
 getActivityIdeaWithParameters("recreational", 1);
+
+// Read the API docs here: https://www.boredapi.com/documentation

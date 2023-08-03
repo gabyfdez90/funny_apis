@@ -24,3 +24,5 @@ async function getRandomGeekJoke2() {
 }
 
 getRandomGeekJoke2();
+
+// Found the source code of the API here: https://github.com/sameerkumar18/geek-joke-api
