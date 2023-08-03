@@ -14,7 +14,7 @@ async function getRandomUselessFact1() {
 getRandomUselessFact1();
 
 // Using axios inside an asyncronous function to get one random fact
-// Step 1: Install accions with 'npn install axios'
+// Step 1: Install axios with 'npn install axios'
 
 async function getRandomUselessFact2() {
   const response = await axios.get(
